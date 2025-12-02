@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) Repository
 
-This repository contains implementations of fundamental **Data Structures and Algorithms I(DSA)** in C++, starting with Sorting and expanding to Searching, Trees, Graphs, Dynamic Programming, and more.
+This repository contains implementations of fundamental **Data Structures and Algorithms I(DSA)** in C++, starting with Sorting and expanding to Searching, Trees, Graphs, Dynamic Programming, and more.CSE 2216 Data Structure and Algorithms I and CSI 218 Data Structure and Algorithms I Laboratory
 
 
 ---
